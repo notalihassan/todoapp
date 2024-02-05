@@ -1,0 +1,27 @@
+h1.text-center.pt-4.pb-3 {
+    font-family: fantasy !important;
+    font-size: 40px;
+}
+
+
+footer{
+    position: sticky;
+    top: 100%;
+    
+}
+body{
+    min-height: 92vh;
+}
+#taskInTab{
+    max-width: 250px;
+}
+
+.edit{
+    border: 2px solid orange;
+}
+.not-edit{
+    border: none;
+}
+.crossed{
+    text-decoration: line-through;
+}
